@@ -1,0 +1,123 @@
+# depslib dependency file v1.0
+1638101076 source:/home/ridha/Desktop/mp c new version /main.c
+	<stdio.h>
+	<stdlib.h>
+	"location.h"
+
+1638350742 source:/home/ridha/Desktop/mp c new version /mise a jour.c
+	"location.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1638351392 source:/home/ridha/Desktop/mp c new version /recherche.c
+	<stdio.h>
+	<stdlib.h>
+	"location.h"
+	<string.h>
+
+1638351490 source:/home/ridha/Desktop/mp c new version /saisir.c
+	<stdlib.h>
+	<stdio.h>
+	"location.h"
+
+1638350674 /home/ridha/Desktop/mp c new version /location.h
+
+1637523051 source:/home/ridha/Desktop/mp c new version /colors.c
+	<stdio.h>
+	"colors.h"
+
+1637610025 source:/home/ridha/Desktop/mp c new version /location_array.c
+	"location.h"
+	<stdio.h>
+
+1638186943 source:/home/ridha/Desktop/mp c new version /login.c
+	<stdio.h>
+	<string.h>
+
+1637533906 source:/home/ridha/Desktop/mp c new version /date.c
+	"location.h"
+
+1638349824 source:/home/ridha/Desktop/mp c new version /appartement.c
+	"location.h"
+	<string.h>
+
+1637534208 /home/ridha/Desktop/mp c new version /colors.h
+
+1638001280 source:/home/ridha/Desktop/mp c new version /trier.c
+	"location.h"
+	<stdio.h>
+	<string.h>
+
+1638350199 source:/home/ridha/Desktop/mp c new version /afficher.c
+	"location.h"
+	<stdio.h>
+
+1638350895 source:/home/ridha/Desktop/mp c new version /admin.c
+	"location.h"
+	<stdio.h>
+	<stdlib.h>
+
+1638182409 source:/home/ridha/Desktop/mp c new version /visitor.c
+	"location.h"
+	<stdio.h>
+	<stdlib.h>
+
+1638318494 source:c:\users\ridha\downloads\mp c new version\admin.c
+	"location.h"
+	<stdio.h>
+	<stdlib.h>
+
+1638318274 c:\users\ridha\downloads\mp c new version\location.h
+
+1638317798 source:c:\users\ridha\downloads\mp c new version\afficher.c
+	"location.h"
+	<stdio.h>
+
+1638317424 source:c:\users\ridha\downloads\mp c new version\appartement.c
+	"location.h"
+	<string.h>
+
+1637577624 source:c:\users\ridha\downloads\mp c new version\location_array.c
+	"location.h"
+	<stdio.h>
+
+1638154542 source:c:\users\ridha\downloads\mp c new version\login.c
+	<stdio.h>
+	<string.h>
+
+1638318342 source:c:\users\ridha\downloads\mp c new version\mise a jour.c
+	"location.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1638318992 source:c:\users\ridha\downloads\mp c new version\recherche.c
+	<stdio.h>
+	<stdlib.h>
+	"location.h"
+	<string.h>
+
+1638319090 source:c:\users\ridha\downloads\mp c new version\saisir.c
+	<stdlib.h>
+	<stdio.h>
+	"location.h"
+
+1637968880 source:c:\users\ridha\downloads\mp c new version\trier.c
+	"location.h"
+	<stdio.h>
+	<string.h>
+
+1638150008 source:c:\users\ridha\downloads\mp c new version\visitor.c
+	"location.h"
+	<stdio.h>
+	<stdlib.h>
+
+1638319360 source:c:\users\ridha\downloads\mp c new version\date.c
+	"location.h"
+
+1638068676 source:c:\users\ridha\downloads\mp c new version\main.c
+	<stdio.h>
+	<stdlib.h>
+	"location.h"
+
